@@ -13,6 +13,7 @@ This is a PowerShell Module and DSC Resources that can Get/Enable/Disable the So
 #### Installation
 
 This module can be installed from the PowerShell Gallery.  To do this run the following command from an elevated PowerShell prompt:
+
 ```Install-Module SoftwareTimestamping```
 
 Alternatively you can copy the SoftwareTimeStamping Folder into C:\Program Files\WindowsPowerShell\Modules
@@ -20,7 +21,7 @@ Alternatively you can copy the SoftwareTimeStamping Folder into C:\Program Files
 #### Test
 
 Please try out our validation guide!
-https://github.com/Microsoft/W32Time/blob/master/Timestamping/docs/Validation%20Guide%20-%20RS5%20-%20Software%20Timestamping.docx
+[Validation Guide - Software Timestamping.docx](./Timestamping/docs/Validation%20Guide%20-%20Software%20Timestamping.docx)
 
 ## Precision Time Protocol
 
